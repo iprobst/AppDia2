@@ -1,4 +1,4 @@
-package ejercicioTM;
+package ejercicioTM.ej2;
 
 public class Contador {
     private int valor;

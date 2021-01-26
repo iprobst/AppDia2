@@ -1,4 +1,4 @@
-package ejercicioTM;
+package ejercicioTM.ej3;
 
 public class Libro {
     private String titulo;

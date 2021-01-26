@@ -1,4 +1,4 @@
-package ejercicioTM;
+package ejercicioTM.ej1;
 
 public class CuentaCorriente {
 
